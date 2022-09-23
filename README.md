@@ -20,7 +20,7 @@ I am Mohammad Omar. i'm 21 years old .I am a professoinal web-developer and woo-
 - 💬 Ask me about anythings whatever you wants.😊 
 - ⚡ Fun fact: I always try to learn new things.❤❤  <br> <br>
 
-🌍Skills & Exprience: <br> <br>
+🌍Skills & Exprience: <br>
 ✅ WordPress <Br>
 ✅ HTML / CSS /BOOTSTRAP <br>
 ✅ Git / Github <br>

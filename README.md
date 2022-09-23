@@ -2,6 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/Mohammad-Omar-07) 
 ### Hi there 👋, My name is Mohammad Omar
 #### A Professoinal Front-end | Web-developer And Wordpress Specialist
+<img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" align="right" width="400">
 
  
 
@@ -18,7 +19,7 @@ Skill & Exprience: <br>
 - 🤔 I’m looking for help with my existance projects 
 - 💬 Ask me about anythings whatever you wants.😊 
 - ⚡ Fun fact: I always try to learn new things.❤❤  <br> <br><br>
-  <img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="300" height="200"> <br> <br>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohammad-Omar-07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shayied07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Mohammad-Omar007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.coder-omar.com)  

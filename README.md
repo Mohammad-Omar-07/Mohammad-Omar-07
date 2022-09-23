@@ -41,7 +41,7 @@ I am Mohammad Omar. i'm 21 years old .I am a professoinal web-developer and woo-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Omar-07)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mohammad-Omar-07)  
+![GitHub metrics](https://metrics.lecoq.io/Mohammad-Omar-07)
 
 
 

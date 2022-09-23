@@ -1,6 +1,7 @@
+(https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ### Hi there 👋, My name is Mohammad Omar
 #### A Professoinal Front-end | Web-developer And Wordpress Specialist
-![A Professoinal Front-end | Web-developer And Wordpress Specialist](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![A Professoinal Front-end | Web-developer And Wordpress Specialist]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

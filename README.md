@@ -1,4 +1,5 @@
-(https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)' alt='github' width='500' height='400'>]
+
 ### Hi there 👋, My name is Mohammad Omar
 #### A Professoinal Front-end | Web-developer And Wordpress Specialist
 ![A Professoinal Front-end | Web-developer And Wordpress Specialist]

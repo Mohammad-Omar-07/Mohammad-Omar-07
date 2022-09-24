@@ -27,7 +27,7 @@ I am Mohammad Omar. i'm 21 years old .I am a professoinal web-developer and woo-
 ✅ Git / Github <br>
  <br> 
  <hr>
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mohammad-omar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohammad-omar007" height="30" width="40" /></a>

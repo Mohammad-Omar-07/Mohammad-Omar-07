@@ -45,7 +45,7 @@ I am Mohammad Omar. i'm 21 years old .I am a professoinal web-developer and woo-
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Omar-07)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-omar-07&show_icons=true&theme=synthwave&title_color=ffffff&text_color=fffefa&bg_color=293165&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="mohammad-omar-07" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Omar-07&show_icons=true&theme=radical) <br> <br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Omar-07)  <br> <br>
